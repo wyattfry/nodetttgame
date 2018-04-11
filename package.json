@@ -1,0 +1,23 @@
+{
+  "name": "nodetttgame",
+  "version": "1.0.0",
+  "description": "Play Tic Tac Toe via NodeJS",
+  "main": "nodetttgame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node nodetttgame.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyattfry/nodetttgame.git"
+  },
+  "author": "Wyatt Fry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyattfry/nodetttgame/issues"
+  },
+  "homepage": "https://github.com/wyattfry/nodetttgame#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
